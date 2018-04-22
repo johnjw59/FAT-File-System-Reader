@@ -1,0 +1,778 @@
+Sector size: 512
+Cluster size in sectors: 4
+Root directory size (nb of entries): 512
+Sectors per fat: 4
+Reserved sectors: 1
+Hidden sectors: 0
+Fat offset in sectors: 1
+Root directory offset in sectors: 9
+First cluster offset in sectors: 33
+
+Filename: \ASS1
+This file is a directory.
+Clusters: 3
+
+Filename: \ASS1\.
+This file is a directory.
+Clusters: 3
+
+Filename: \ASS1\..
+This file is a directory.
+Clusters: 0
+
+Filename: \ASS1\ORDER.C
+Size: 109
+Clusters: 6
+
+Filename: \ASS1\MSCHEME.TXT
+Size: 2125
+Clusters: 7-8
+
+Filename: \ASS1\BUBBLE.S
+Size: 1408
+Clusters: 14
+
+Filename: \ASS2
+This file is a directory.
+Clusters: 4
+
+Filename: \ASS2\.
+This file is a directory.
+Clusters: 4
+
+Filename: \ASS2\..
+This file is a directory.
+Clusters: 0
+
+Filename: \ASS2\MSCHEME.TXT
+Size: 1663
+Clusters: 9
+
+Filename: \ASS3
+This file is a directory.
+Clusters: 5
+
+Filename: \ASS3\.
+This file is a directory.
+Clusters: 5
+
+Filename: \ASS3\..
+This file is a directory.
+Clusters: 0
+
+Filename: \ASS3\MSCHEME1.TXT
+Size: 1019
+Clusters: 10
+
+Filename: \ASS3\MSCHEME2.TXT
+Size: 1960
+Clusters: 11
+
+Filename: \ASS3\MSCHEME3.TXT
+Size: 3421
+Clusters: 12-13
+
+Filename: \SLIDES1.PDF
+Size: 313638
+Clusters: 21-174
+
+Filename: \MALADE.TXT
+Size: 13215
+Clusters: 176-179,187-189
+
+Filename: \FORM.PS
+Size: 13543
+Clusters: 180-186
+
+Filename: \DIRECT0
+This file is a directory.
+Clusters: 191
+
+Filename: \DIRECT0\.
+This file is a directory.
+Clusters: 191
+
+Filename: \DIRECT0\..
+This file is a directory.
+Clusters: 0
+
+Filename: \DIRECT0\DIRECT1
+This file is a directory.
+Clusters: 192
+
+Filename: \DIRECT0\DIRECT1\.
+This file is a directory.
+Clusters: 192
+
+Filename: \DIRECT0\DIRECT1\..
+This file is a directory.
+Clusters: 191
+
+Filename: \DIRECT0\DIRECT1\DIRECT2
+This file is a directory.
+Clusters: 193
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\.
+This file is a directory.
+Clusters: 193
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\..
+This file is a directory.
+Clusters: 192
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\DIRECT3
+This file is a directory.
+Clusters: 194
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\DIRECT3\.
+This file is a directory.
+Clusters: 194
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\DIRECT3\..
+This file is a directory.
+Clusters: 193
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\DIRECT3\DIRECT4
+This file is a directory.
+Clusters: 195
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\DIRECT3\DIRECT4\.
+This file is a directory.
+Clusters: 195
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\DIRECT3\DIRECT4\..
+This file is a directory.
+Clusters: 194
+
+Filename: \DIRECT0\DIRECT1\DIRECT2\DIRECT3\DIRECT4\DEEPFILE.TXT
+Size: 55
+Clusters: 197
+
+Filename: \LARGEDIR
+This file is a directory.
+Clusters: 198,261,326
+
+Filename: \LARGEDIR\.
+This file is a directory.
+Clusters: 198,261,326
+
+Filename: \LARGEDIR\..
+This file is a directory.
+Clusters: 0
+
+Filename: \LARGEDIR\FILE00.TXT
+Size: 30
+Clusters: 199
+
+Filename: \LARGEDIR\FILE01.TXT
+Size: 30
+Clusters: 200
+
+Filename: \LARGEDIR\FILE02.TXT
+Size: 30
+Clusters: 201
+
+Filename: \LARGEDIR\FILE03.TXT
+Size: 30
+Clusters: 202
+
+Filename: \LARGEDIR\FILE04.TXT
+Size: 30
+Clusters: 203
+
+Filename: \LARGEDIR\FILE05.TXT
+Size: 30
+Clusters: 204
+
+Filename: \LARGEDIR\FILE06.TXT
+Size: 30
+Clusters: 205
+
+Filename: \LARGEDIR\FILE10.TXT
+Size: 30
+Clusters: 206
+
+Filename: \LARGEDIR\FILE11.TXT
+Size: 30
+Clusters: 207
+
+Filename: \LARGEDIR\FILE12.TXT
+Size: 30
+Clusters: 208
+
+Filename: \LARGEDIR\FILE13.TXT
+Size: 30
+Clusters: 209
+
+Filename: \LARGEDIR\FILE14.TXT
+Size: 30
+Clusters: 210
+
+Filename: \LARGEDIR\FILE15.TXT
+Size: 30
+Clusters: 211
+
+Filename: \LARGEDIR\FILE16.TXT
+Size: 30
+Clusters: 212
+
+Filename: \LARGEDIR\FILE20.TXT
+Size: 30
+Clusters: 213
+
+Filename: \LARGEDIR\FILE21.TXT
+Size: 30
+Clusters: 214
+
+Filename: \LARGEDIR\FILE22.TXT
+Size: 30
+Clusters: 215
+
+Filename: \LARGEDIR\FILE23.TXT
+Size: 30
+Clusters: 216
+
+Filename: \LARGEDIR\FILE24.TXT
+Size: 30
+Clusters: 217
+
+Filename: \LARGEDIR\FILE25.TXT
+Size: 30
+Clusters: 218
+
+Filename: \LARGEDIR\FILE26.TXT
+Size: 30
+Clusters: 219
+
+Filename: \LARGEDIR\FILE30.TXT
+Size: 30
+Clusters: 220
+
+Filename: \LARGEDIR\FILE31.TXT
+Size: 30
+Clusters: 221
+
+Filename: \LARGEDIR\FILE32.TXT
+Size: 30
+Clusters: 222
+
+Filename: \LARGEDIR\FILE33.TXT
+Size: 30
+Clusters: 223
+
+Filename: \LARGEDIR\FILE34.TXT
+Size: 30
+Clusters: 224
+
+Filename: \LARGEDIR\FILE35.TXT
+Size: 30
+Clusters: 225
+
+Filename: \LARGEDIR\FILE36.TXT
+Size: 30
+Clusters: 226
+
+Filename: \LARGEDIR\FILE40.TXT
+Size: 30
+Clusters: 227
+
+Filename: \LARGEDIR\FILE41.TXT
+Size: 30
+Clusters: 228
+
+Filename: \LARGEDIR\FILE42.TXT
+Size: 30
+Clusters: 229
+
+Filename: \LARGEDIR\FILE43.TXT
+Size: 30
+Clusters: 230
+
+Filename: \LARGEDIR\FILE44.TXT
+Size: 30
+Clusters: 231
+
+Filename: \LARGEDIR\FILE45.TXT
+Size: 30
+Clusters: 232
+
+Filename: \LARGEDIR\FILE46.TXT
+Size: 30
+Clusters: 233
+
+Filename: \LARGEDIR\FILE50.TXT
+Size: 30
+Clusters: 234
+
+Filename: \LARGEDIR\FILE51.TXT
+Size: 30
+Clusters: 235
+
+Filename: \LARGEDIR\FILE52.TXT
+Size: 30
+Clusters: 236
+
+Filename: \LARGEDIR\FILE53.TXT
+Size: 30
+Clusters: 237
+
+Filename: \LARGEDIR\FILE54.TXT
+Size: 30
+Clusters: 238
+
+Filename: \LARGEDIR\FILE55.TXT
+Size: 30
+Clusters: 239
+
+Filename: \LARGEDIR\FILE56.TXT
+Size: 30
+Clusters: 240
+
+Filename: \LARGEDIR\FILE60.TXT
+Size: 30
+Clusters: 241
+
+Filename: \LARGEDIR\FILE61.TXT
+Size: 30
+Clusters: 242
+
+Filename: \LARGEDIR\FILE62.TXT
+Size: 30
+Clusters: 243
+
+Filename: \LARGEDIR\FILE63.TXT
+Size: 30
+Clusters: 244
+
+Filename: \LARGEDIR\FILE64.TXT
+Size: 30
+Clusters: 245
+
+Filename: \LARGEDIR\FILE65.TXT
+Size: 30
+Clusters: 246
+
+Filename: \LARGEDIR\FILE66.TXT
+Size: 30
+Clusters: 247
+
+Filename: \LARGEDIR\FILE07.TXT
+Size: 30
+Clusters: 248
+
+Filename: \LARGEDIR\FILE08.TXT
+Size: 30
+Clusters: 249
+
+Filename: \LARGEDIR\FILE17.TXT
+Size: 30
+Clusters: 250
+
+Filename: \LARGEDIR\FILE18.TXT
+Size: 30
+Clusters: 251
+
+Filename: \LARGEDIR\FILE27.TXT
+Size: 30
+Clusters: 252
+
+Filename: \LARGEDIR\FILE28.TXT
+Size: 30
+Clusters: 253
+
+Filename: \LARGEDIR\FILE37.TXT
+Size: 30
+Clusters: 254
+
+Filename: \LARGEDIR\FILE38.TXT
+Size: 30
+Clusters: 255
+
+Filename: \LARGEDIR\FILE47.TXT
+Size: 30
+Clusters: 256
+
+Filename: \LARGEDIR\FILE48.TXT
+Size: 30
+Clusters: 257
+
+Filename: \LARGEDIR\FILE57.TXT
+Size: 30
+Clusters: 258
+
+Filename: \LARGEDIR\FILE58.TXT
+Size: 30
+Clusters: 259
+
+Filename: \LARGEDIR\FILE67.TXT
+Size: 30
+Clusters: 260
+
+Filename: \LARGEDIR\FILE68.TXT
+Size: 30
+Clusters: 262
+
+Filename: \LARGEDIR\FILE70.TXT
+Size: 30
+Clusters: 263
+
+Filename: \LARGEDIR\FILE71.TXT
+Size: 30
+Clusters: 264
+
+Filename: \LARGEDIR\FILE72.TXT
+Size: 30
+Clusters: 265
+
+Filename: \LARGEDIR\FILE73.TXT
+Size: 30
+Clusters: 266
+
+Filename: \LARGEDIR\FILE74.TXT
+Size: 30
+Clusters: 267
+
+Filename: \LARGEDIR\FILE75.TXT
+Size: 30
+Clusters: 268
+
+Filename: \LARGEDIR\FILE76.TXT
+Size: 30
+Clusters: 269
+
+Filename: \LARGEDIR\FILE80.TXT
+Size: 30
+Clusters: 270
+
+Filename: \LARGEDIR\FILE81.TXT
+Size: 30
+Clusters: 271
+
+Filename: \LARGEDIR\FILE82.TXT
+Size: 30
+Clusters: 272
+
+Filename: \LARGEDIR\FILE83.TXT
+Size: 30
+Clusters: 273
+
+Filename: \LARGEDIR\FILE84.TXT
+Size: 30
+Clusters: 274
+
+Filename: \LARGEDIR\FILE85.TXT
+Size: 30
+Clusters: 275
+
+Filename: \LARGEDIR\FILE86.TXT
+Size: 30
+Clusters: 276
+
+Filename: \LARGEDIR\FILE000.TXT
+Size: 30
+Clusters: 277
+
+Filename: \LARGEDIR\FILE001.TXT
+Size: 30
+Clusters: 278
+
+Filename: \LARGEDIR\FILE002.TXT
+Size: 30
+Clusters: 279
+
+Filename: \LARGEDIR\FILE003.TXT
+Size: 30
+Clusters: 280
+
+Filename: \LARGEDIR\FILE004.TXT
+Size: 30
+Clusters: 281
+
+Filename: \LARGEDIR\FILE005.TXT
+Size: 30
+Clusters: 282
+
+Filename: \LARGEDIR\FILE006.TXT
+Size: 30
+Clusters: 283
+
+Filename: \LARGEDIR\FILE007.TXT
+Size: 30
+Clusters: 284
+
+Filename: \LARGEDIR\FILE008.TXT
+Size: 30
+Clusters: 285
+
+Filename: \LARGEDIR\FILE010.TXT
+Size: 30
+Clusters: 286
+
+Filename: \LARGEDIR\FILE011.TXT
+Size: 30
+Clusters: 287
+
+Filename: \LARGEDIR\FILE012.TXT
+Size: 30
+Clusters: 288
+
+Filename: \LARGEDIR\FILE013.TXT
+Size: 30
+Clusters: 289
+
+Filename: \LARGEDIR\FILE014.TXT
+Size: 30
+Clusters: 290
+
+Filename: \LARGEDIR\FILE015.TXT
+Size: 30
+Clusters: 291
+
+Filename: \LARGEDIR\FILE016.TXT
+Size: 30
+Clusters: 292
+
+Filename: \LARGEDIR\FILE017.TXT
+Size: 30
+Clusters: 293
+
+Filename: \LARGEDIR\FILE018.TXT
+Size: 30
+Clusters: 294
+
+Filename: \LARGEDIR\FILE020.TXT
+Size: 30
+Clusters: 295
+
+Filename: \LARGEDIR\FILE021.TXT
+Size: 30
+Clusters: 296
+
+Filename: \LARGEDIR\FILE022.TXT
+Size: 30
+Clusters: 297
+
+Filename: \LARGEDIR\FILE023.TXT
+Size: 30
+Clusters: 298
+
+Filename: \LARGEDIR\FILE024.TXT
+Size: 30
+Clusters: 299
+
+Filename: \LARGEDIR\FILE025.TXT
+Size: 30
+Clusters: 300
+
+Filename: \LARGEDIR\FILE026.TXT
+Size: 30
+Clusters: 301
+
+Filename: \LARGEDIR\FILE027.TXT
+Size: 30
+Clusters: 302
+
+Filename: \LARGEDIR\FILE028.TXT
+Size: 30
+Clusters: 303
+
+Filename: \LARGEDIR\FILE030.TXT
+Size: 30
+Clusters: 304
+
+Filename: \LARGEDIR\FILE031.TXT
+Size: 30
+Clusters: 305
+
+Filename: \LARGEDIR\FILE032.TXT
+Size: 30
+Clusters: 306
+
+Filename: \LARGEDIR\FILE033.TXT
+Size: 30
+Clusters: 307
+
+Filename: \LARGEDIR\FILE034.TXT
+Size: 30
+Clusters: 308
+
+Filename: \LARGEDIR\FILE035.TXT
+Size: 30
+Clusters: 309
+
+Filename: \LARGEDIR\FILE036.TXT
+Size: 30
+Clusters: 310
+
+Filename: \LARGEDIR\FILE037.TXT
+Size: 30
+Clusters: 311
+
+Filename: \LARGEDIR\FILE038.TXT
+Size: 30
+Clusters: 312
+
+Filename: \LARGEDIR\FILE040.TXT
+Size: 30
+Clusters: 313
+
+Filename: \LARGEDIR\FILE041.TXT
+Size: 30
+Clusters: 314
+
+Filename: \LARGEDIR\FILE042.TXT
+Size: 30
+Clusters: 315
+
+Filename: \LARGEDIR\FILE043.TXT
+Size: 30
+Clusters: 316
+
+Filename: \LARGEDIR\FILE044.TXT
+Size: 30
+Clusters: 317
+
+Filename: \LARGEDIR\FILE045.TXT
+Size: 30
+Clusters: 318
+
+Filename: \LARGEDIR\FILE046.TXT
+Size: 30
+Clusters: 319
+
+Filename: \LARGEDIR\FILE047.TXT
+Size: 30
+Clusters: 320
+
+Filename: \LARGEDIR\FILE048.TXT
+Size: 30
+Clusters: 321
+
+Filename: \LARGEDIR\FILE050.TXT
+Size: 30
+Clusters: 322
+
+Filename: \LARGEDIR\FILE051.TXT
+Size: 30
+Clusters: 323
+
+Filename: \LARGEDIR\FILE052.TXT
+Size: 30
+Clusters: 324
+
+Filename: \LARGEDIR\FILE053.TXT
+Size: 30
+Clusters: 325
+
+Filename: \LARGEDIR\FILE054.TXT
+Size: 30
+Clusters: 327
+
+Filename: \LARGEDIR\FILE055.TXT
+Size: 30
+Clusters: 328
+
+Filename: \LARGEDIR\FILE056.TXT
+Size: 30
+Clusters: 329
+
+Filename: \LARGEDIR\FILE057.TXT
+Size: 30
+Clusters: 330
+
+Filename: \LARGEDIR\FILE058.TXT
+Size: 30
+Clusters: 331
+
+Filename: \LARGEDIR\FILE060.TXT
+Size: 30
+Clusters: 332
+
+Filename: \LARGEDIR\FILE061.TXT
+Size: 30
+Clusters: 333
+
+Filename: \LARGEDIR\FILE062.TXT
+Size: 30
+Clusters: 334
+
+Filename: \LARGEDIR\FILE063.TXT
+Size: 30
+Clusters: 335
+
+Filename: \LARGEDIR\FILE064.TXT
+Size: 30
+Clusters: 336
+
+Filename: \LARGEDIR\FILE065.TXT
+Size: 30
+Clusters: 337
+
+Filename: \LARGEDIR\FILE066.TXT
+Size: 30
+Clusters: 338
+
+Filename: \LARGEDIR\FILE067.TXT
+Size: 30
+Clusters: 339
+
+Filename: \LARGEDIR\FILE068.TXT
+Size: 30
+Clusters: 340
+
+Filename: \LARGEDIR\FILE070.TXT
+Size: 30
+Clusters: 341
+
+Filename: \LARGEDIR\FILE071.TXT
+Size: 30
+Clusters: 342
+
+Filename: \LARGEDIR\FILE072.TXT
+Size: 30
+Clusters: 343
+
+Filename: \LARGEDIR\FILE073.TXT
+Size: 30
+Clusters: 344
+
+Filename: \LARGEDIR\FILE074.TXT
+Size: 30
+Clusters: 345
+
+Filename: \LARGEDIR\FILE075.TXT
+Size: 30
+Clusters: 346
+
+Filename: \LARGEDIR\FILE076.TXT
+Size: 30
+Clusters: 347
+
+Filename: \LARGEDIR\FILE080.TXT
+Size: 30
+Clusters: 348
+
+Filename: \LARGEDIR\FILE081.TXT
+Size: 30
+Clusters: 349
+
+Filename: \LARGEDIR\FILE082.TXT
+Size: 30
+Clusters: 350
+
+Filename: \LARGEDIR\FILE083.TXT
+Size: 30
+Clusters: 351
+
+Filename: \LARGEDIR\FILE084.TXT
+Size: 30
+Clusters: 352
+
+Filename: \LARGEDIR\FILE085.TXT
+Size: 30
+Clusters: 353
+
+Filename: \LARGEDIR\FILE086.TXT
+Size: 30
+Clusters: 354
+
